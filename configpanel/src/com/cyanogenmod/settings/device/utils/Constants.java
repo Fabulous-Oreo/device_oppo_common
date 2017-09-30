@@ -93,6 +93,8 @@ public class Constants {
         sBooleanNodePreferenceMap.put(TOUCHPAD_STATE_KEY, TOUCH_PAD_NODE);
         sBooleanNodePreferenceMap.put(TOUCHSCREEN_CAMERA_GESTURE_KEY, TOUCHSCREEN_CAMERA_NODE);
         sBooleanNodePreferenceMap.put(TOUCHSCREEN_MUSIC_GESTURE_KEY, TOUCHSCREEN_DOUBLE_SWIPE_NODE);
+        sBooleanNodePreferenceMap.put(TOUCHSCREEN_MUSIC_GESTURE_KEY, TOUCHSCREEN_LEFT_ARROW);
+        sBooleanNodePreferenceMap.put(TOUCHSCREEN_MUSIC_GESTURE_KEY, TOUCHSCREEN_RIGHT_ARROW);
         sBooleanNodePreferenceMap.put(TOUCHSCREEN_FLASHLIGHT_GESTURE_KEY,
                 TOUCHSCREEN_FLASHLIGHT_NODE);
         sBooleanNodePreferenceMap.put(BUTTON_SWAP_KEY, BUTTON_SWAP_NODE);
